@@ -2,9 +2,10 @@
 
 ##### Initialize project 
 
-    git clone 
-    cd my-app
-    polymer init starter-kit
+    git clone https://github.com/graydient/polymer-demo.git
+    cd polymer-demo
+    npm install
+    bower install
 
 ### Start the development server
 
